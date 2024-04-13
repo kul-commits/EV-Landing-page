@@ -1,8 +1,12 @@
-# React + Vite
+EV-Website Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a landing page for an Electric Vehicle (EV) website, built using React. It aims to provide users with a visually appealing and informative introduction to electric vehicles, their benefits, and related services.
 
-Currently, two official plugins are available:
+Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React: The project is built using React, a popular JavaScript library for building user interfaces.
+
+HTML & CSS: Utilizes HTML5 and CSS3 for structuring and styling the website layout.
+
+JavaScript: Implements JavaScript for interactivity and dynamic content rendering.
+
